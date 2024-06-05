@@ -17,27 +17,10 @@ chruby ruby-3.3.0
 ```
 
 ```
-ruby-install --latest
-or
-ruby-install ruby
-```
+ruby-install ruby 2.3.0
 
-```
-rails -v
-```
-//ruby -v ruby 3.3.0 (2023-12-25 revision 5124f9ac75) [x86_64-darwin21]
-
-```
-gem install rails -v 7.2.0.beta1
-```
-
-```
-ruby-install ruby 3.1.2
 chruby 2.3.0
-
-
 ```
-
 
 This is a todo app made with Ruby on Rails
 
